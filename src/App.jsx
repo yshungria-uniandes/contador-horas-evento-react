@@ -1,5 +1,6 @@
 
 import EventCountdown from "./components/EventCountDown";
+import "./App.css";
 
 const App = () => {
   const eventDate = "2024-12-31T23:59:59"; // Cambia esta fecha al objetivo del evento
